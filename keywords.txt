@@ -1,0 +1,7 @@
+Python
+Java
+C
+MongoDB
+MySQL
+Django
+OpenCv
